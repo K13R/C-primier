@@ -12,6 +12,8 @@ int main()
   cout<<"Bad, ";
   cout<<"and the Ukulele";
   cout<<endl;
+  cout<< "idk how to write a project, is it actually gonna work? lol"
+  cout<<endl;
   return 0;
   //this is a quote
 
